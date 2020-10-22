@@ -1,2 +1,1 @@
-Bunch of tutorials done from pyimagesearch
-
+Pyimagesearch tutorials for learning ML
